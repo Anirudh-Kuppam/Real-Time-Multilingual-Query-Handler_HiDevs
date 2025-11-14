@@ -1,10 +1,8 @@
-# Python
+.env
 __pycache__/
-*.py[cod]
-venv/
-env/
-.DS_Store
-node_modules/
-.idea/
+*.pyc
+*.pt
+*.bin
+backend/models/
 .vscode/
-*.log
+data/*.json

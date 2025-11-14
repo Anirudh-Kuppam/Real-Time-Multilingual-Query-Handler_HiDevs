@@ -1,1 +1,12 @@
-# Add your project dependencies here
+streamlit
+fastapi
+uvicorn
+langdetect
+openai
+transformers
+sentencepiece
+torch
+python-dotenv
+pydantic
+requests
+pytest
